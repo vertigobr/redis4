@@ -1,9 +1,11 @@
 Redis 4 (beta)
 ======
 
-Redis 4 (beta) built from sources.
+Redis 4 (beta) built from redis sources.
 
 This image was produced from a multi-stage Dockerfile.
+
+Check https://github.com/vertigobr/redis4.
 
 ## How to use it
 
