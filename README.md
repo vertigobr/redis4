@@ -1,4 +1,4 @@
-Redis4
+Redis 4 (beta)
 ======
 
 Redis 4 (beta) built from sources.
